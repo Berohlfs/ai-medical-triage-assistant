@@ -1,5 +1,7 @@
 # 🧠 AI Medical Triage Assistant
 
+> ⚠️ O deploy da soluçäo no N8N está atualmente fora do ar.
+
 Um assistente de triagem médica automatizado baseado em IA, criado para simular conversas entre pacientes e profissionais da saúde, com foco em orientar o atendimento inicial.
 
 | Participantes |
@@ -34,7 +36,7 @@ Você pode interagir com o assistente diretamente por aqui:
 
 🌐 [Demo ao vivo](https://berohlfs.github.io/AI-medical-triage-assistant/)
 
-![Demo - Imagem](./demo.png)
+![Demo - Imagem](./demo.png) ⚠️ 
 
 ---
 
